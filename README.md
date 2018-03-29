@@ -1,4 +1,4 @@
-# dashboard-grupofatos
+# Dashboard-Grupofatos
 ├───dashboard-grupofatos  
 │   ├───conexao  
 │   ├───css  
@@ -8,9 +8,9 @@
 
 
 # API - Google Charts
-link: https://developers.google.com/chart/
+link: [Api Google Charts ](https://developers.google.com/chart/)
 
-<img src="imagens/grafico.jpg" width="600" alt="graficot" style="max-width:100%;">
+[Grafico](<img src="imagens/grafico.jpg" width="600" alt="grafico" style="max-width:100%;">)
 
 # Servidor de base de dados
 Servidor: MySQL (127.0.0.1 via TCP/IP)
