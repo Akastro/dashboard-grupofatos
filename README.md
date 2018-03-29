@@ -10,7 +10,7 @@
 # API - Google Charts
 link: [Api Google Charts ](https://developers.google.com/chart/)
 
-![Grafico](https://giphy.com/gifs/realtime-DXMPt2hET3CMM)
+![Grafico](imagens/grafico.gif)
 
 # Servidor de base de dados
 Servidor: MySQL (127.0.0.1 via TCP/IP)
